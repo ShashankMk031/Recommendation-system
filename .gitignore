@@ -1,4 +1,5 @@
 venv/ 
+.venv/
 
 __pycache__/
 .ipynb_checkpoints/
@@ -10,4 +11,5 @@ __pycache__/
 # Dataset 
 ml-100k/ 
 
-ml-100k.zip
+ml-100k.zip 
+
